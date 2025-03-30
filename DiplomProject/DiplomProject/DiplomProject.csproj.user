@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="createTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deleteTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DelProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editRow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="regForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="transition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
